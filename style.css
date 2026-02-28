@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html,body{
+    height: 100%;
+    width: 100%;
+}
+#flexContainer{
+
+    width: 95%;
+    position: absolute;
+    left: 50%;
+ 
+    transform: translate(-50%);
+    border: 5px solid rgb(0, 255, 8);
+    border-radius: 5px;
+    outline: 3px solid black;
+    display: flex;
+    flex-wrap: wrap;
+    margin: 15px;
+    padding: 15px;
+
+}
+
+.childDiv{
+    height: 150px;
+    width: 150px;
+    border: 2px solid blue;
+    flex-basis: 150px;
+    flex-shrink: 1;
+    flex-grow: 1;
+    /*here display flex is used again to center text ijn the div */
+ display: flex;             
+    justify-content: center;   
+    align-items: center;  
+}
