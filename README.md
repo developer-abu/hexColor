@@ -3,7 +3,7 @@
 <h1>How to Use</h1>
 <ul>
   <li>just click on color </li>
-   <li>code will be autometically copied to tjhe color</li>
+   <li>code will be autometically copied to to the clipboard </li>
   
 </ul>
 
