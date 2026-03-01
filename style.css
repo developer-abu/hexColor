@@ -8,6 +8,21 @@ html,body{
     height: 100%;
     width: 100%;
 }
+body{
+    background-color: #5A6978;
+}
+#heading1{
+   position: relative;
+   left: 50%;
+   transform: translate(-50%);
+    border: 2px solid blue;
+    display: inline-block;
+    padding: 15px;
+    margin: 15px;
+    border-radius: 8px;
+    outline: 2px solid red;
+    background-color: #F0E68C;
+}
 #flexContainer{
 
     width: 95%;
@@ -28,7 +43,9 @@ html,body{
 .childDiv{
     height: 150px;
     width: 150px;
-    border: 2px solid blue;
+    border: 5px solid #6A5ACD;
+    outline: 3px solid #BC8F8F;
+    border-radius: 5px;
     flex-basis: 150px;
     flex-shrink: 1;
     flex-grow: 1;
