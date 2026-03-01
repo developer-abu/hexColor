@@ -19,6 +19,6 @@
   <li> Faaaah sound will be pleyed on successful copy 😊 </li>
 </ul>
 
-<h1>Developer Name /h1>
+<h1>Developer Name </h1>
 
-<h2> Abu Huraira Shaikh /h2>
+<h2> Abu Huraira Shaikh </h2>
