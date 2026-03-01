@@ -3,12 +3,7 @@
 
   let colorDiv = document.querySelectorAll(".childDiv");
 
-
-
-
-
-
-
+  
   for(let i of colorDiv){
 
    i.addEventListener("click", ()=>{
