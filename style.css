@@ -50,7 +50,9 @@ body{
     flex-shrink: 1;
     flex-grow: 1;
     /*here display flex is used again to center text ijn the div */
- display: flex;             
+display: flex;             
     justify-content: center;   
-    align-items: center;  
+    align-items: center; 
+color: transparent; 
+
 }
