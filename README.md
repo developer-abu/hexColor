@@ -7,14 +7,14 @@
   
 </ul>
 
-<h1>Technology Used /h1>
+<h1>Technology Used </h1>
 <ul>
-  <li>HTML </li>
+  <li> HTML </li>
    <li>CSS</li>
    <li>JavaScript</li>
 </ul>
 
-<h1>What is special here  /h1>
+<h1>What is special here </h1>
 <ul>
   <li> Faaaah sound will be pleyed on successful copy 😊 </li>
 </ul>
